@@ -1,0 +1,25 @@
+baseURL: https://sultanowskii.github.io/
+languageCode: en-us
+title: sultanowskii
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Artur Sultanov"
+    subtitle: "go dev @ MWS"
+    imageUrl: "images/pfp.jpg"
+    imageTitle: "pfp should be here"
+    imageWidth: 160 # custom size
+    imageHeight: 160 # custom size
+    buttons:
+      - name: Posts
+        url: "/posts"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/sultanowskii"
+    - name: "telegram"
+      url: "https://t.me/sultanowskii"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/sultanowskii"
