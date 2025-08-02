@@ -7,14 +7,14 @@ params:
   profileMode:
     enabled: true
     title: "Artur Sultanov"
-    subtitle: "go dev @ MWS"
+    subtitle: "go dev @ yandex"
     imageUrl: "images/pfp.jpg"
     imageTitle: "pfp should be here"
     imageWidth: 160 # custom size
     imageHeight: 160 # custom size
-    buttons:
-      - name: Posts
-        url: "/posts"
+    # buttons:
+    #   - name: Posts
+    #     url: "/posts"
 
   socialIcons: # optional
     - name: "github"
